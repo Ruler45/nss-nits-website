@@ -1,4 +1,4 @@
-# React + Vite
+# NSS Website
 
 This is template for React created with vite. This template reduces your configuration which you can utilize in your productivity.
 
@@ -14,5 +14,6 @@ Just get into the root directory and follow the steps below:
 
 1. pnpm install
 2. pnpm dev (starts your development server)
+3. React-router is configured
 
 If you don't have pnpm installed just run "npm add -g pnpm"
